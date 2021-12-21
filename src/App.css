@@ -1,0 +1,45 @@
+.my-col {
+  margin-bottom: 20px !important;
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+  width: 400px !important;
+}
+
+.modal-image {
+  width: 100%;
+  height: auto
+}
+
+.modal-commentary {
+  float: left !important;
+}
+
+.modal-footer {
+justify-content: space-between !important;
+}
+
+.modal-commentary-send {
+  display: flex;
+}
+
+input {
+  margin-right: 10px !important;
+}
+
+.commentary {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px
+}
+
+.modal-commentary {
+  margin-bottom: 20px !important;
+}
+
+h1 {
+  text-align: center;
+}
+
+.modal-like {
+  margin-top: 10px
+}
